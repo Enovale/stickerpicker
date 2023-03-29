@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "xtcstickers.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}
