@@ -7,7 +7,7 @@
     "scalar-rabbit.json",
     "scalar-sheltie.json",
     "scalar-stakey.json",
-    "scalar-stickman.json",
+    "scalar-stickman.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
