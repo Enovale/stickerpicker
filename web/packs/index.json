@@ -1,14 +1,14 @@
 {
   "packs": [
     "xtcstickers.json",
+    "tism.json",
     "pusheen02.json",
     "scalar-geeko.json",
     "scalar-loading_artist.json",
     "scalar-rabbit.json",
     "scalar-sheltie.json",
     "scalar-stakey.json",
-    "scalar-stickman.json",
-    "tism.json"
+    "scalar-stickman.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
